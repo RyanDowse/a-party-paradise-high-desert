@@ -17,11 +17,11 @@ export default function Header() {
         <Link href="/" className="flex items-center" aria-label={`${business.name} – home`}>
           <Image
             src={business.logoSrc}
-            alt={business.name}
-            width={192}
-            height={128}
+            alt={`${business.name} logo`}
+            width={624}
+            height={120}
             priority
-            className="h-14 w-auto sm:h-16"
+            className="h-8 w-auto object-contain sm:h-11 lg:h-12"
           />
           <span className="sr-only">{business.name}</span>
         </Link>

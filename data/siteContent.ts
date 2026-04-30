@@ -7,7 +7,7 @@ export const siteContent = {
     email: "Rent@apartyparadise.com",
     emailHref: "mailto:Rent@apartyparadise.com",
     websiteUrl: "https://www.apartyparadise.com",
-    logoSrc: "/images/logo-hires.png",
+    logoSrc: "/images/logo-header-clean.jpg",
     social: {
       instagram:
         "https://www.instagram.com/apartyparadise/profilecard/?igsh=MzRlODBiNWFlZA",
