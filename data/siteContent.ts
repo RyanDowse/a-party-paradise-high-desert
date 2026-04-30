@@ -74,7 +74,7 @@ export const siteContent = {
   ],
   rentals: {
     kicker: "Featured Rentals",
-    h2: "Bounce House Combos, Water Slides, Tables, Chairs & More",
+    h2: "Bounce Houses, Water Slides, Mechanical Bull, Games & Photo Booths",
     intro:
       "Browse our full inventory by category. Real photos, real dimensions, and starting prices.",
     groups: [
